@@ -5,7 +5,7 @@ Exploration of suicide rates over the regions of United Kingdom, Australia, Cana
 States, and France. Data sourced from The World Health Organisation’s 2014 published report,
 ‘Preventing Suicide: A Global Imperative.’
 
-![src//Suicide Rate Visualisation - Nathan Tucker](https://raw.githubusercontent.com/nathantucker/Suicide-Rate-Visualisation/master/screenshots/Visualisation.JPG)
+![src//Suicide Rate Visualisation - Nathan Tucker](https://raw.githubusercontent.com/nayfoon/suicide-rate-visualisation/master/screenshots/Visualisation.JPG)
 
 This design allows for the users to have more precision in the data that they
 are viewing – providing users with the ability to hover over the variables, viewing the
